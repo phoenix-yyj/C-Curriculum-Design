@@ -23,4 +23,3 @@ STU_INFOR* Dle_Infor(STU_INFOR* phead, int stuNum)
 	}
 	return phead;
 }
-

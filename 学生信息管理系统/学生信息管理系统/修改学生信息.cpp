@@ -23,4 +23,3 @@ STU_INFOR* Mod_Infor(STU_INFOR* phead, STU_INFOR* modify)             // Á´±íµÄ 
 	}
 	return phead;
 }
-

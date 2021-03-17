@@ -232,7 +232,7 @@ int main()
 				fclose(fp);
 				printf("恭喜你，保存成功。\n");
 			}
-			printf("请按G徤或其它键继续！\n");
+			printf("按任意键继续！\n");
 			getchar();
 			getchar();                                   // 消除本次的回车键；
 			exit(0);

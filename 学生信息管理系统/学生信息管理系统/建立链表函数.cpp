@@ -16,7 +16,3 @@ STU_INFOR* Setup_Infor(void)
 	phead->next = NULL;
 	return phead;
 }
-
-
-
-
